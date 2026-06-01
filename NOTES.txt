@@ -1,0 +1,1 @@
+ResourceType==2 (Document only), no Batch
